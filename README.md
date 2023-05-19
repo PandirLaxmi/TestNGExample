@@ -23,7 +23,7 @@ features of a test framework
 12. Soft assert
 
 
-**** TestNG is the prior version of jUnit
+* TestNG is the prior version of jUnit*
 
 feature of testNG
 Runner
